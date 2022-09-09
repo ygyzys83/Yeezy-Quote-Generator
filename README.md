@@ -2,7 +2,7 @@
 
 Generate a random quote from Yeezy!
 
-<img src="" width="250" />
+<img src="https://github.com/ygyzys83/Yeezy-Quote-Generator/blob/main/images/yeezy.PNG" width="250" />
 
 ## Description
 
